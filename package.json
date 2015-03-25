@@ -1,0 +1,29 @@
+{
+  "name": "validator-remote-example",
+  "version": "0.0.0",
+  "description": "An example of how to use the remote validation feature in Bootstrap Validator.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/1000hz/validator-remote-example"
+  },
+  "keywords": [
+    "bootstrap",
+    "validator",
+    "ajax",
+    "remote",
+    "validation"
+  ],
+  "author": "Cina Saffary <itscina@gmail.com> (https://github.com/1000hz)",
+  "bugs": {
+    "url": "https://github.com/1000hz/validator-remote-example/issues"
+  },
+  "homepage": "https://github.com/1000hz/validator-remote-example",
+  "dependencies": {
+    "bootstrap-validator": "^0.8.0",
+    "express": "^4.12.3"
+  }
+}
